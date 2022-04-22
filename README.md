@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am an undergraduate student in Telecommunications Engineering at Universidade Federal do Ceará (UFC), Fortaleza, Brazil. 
+#### I am master student in Telecommunications Engineering at Universidade Federal do Ceará (UFC), Fortaleza, Brazil. 
 #### My research is devoted to signal processing, data analysis, tensor models and their applications.
  
 <!--
