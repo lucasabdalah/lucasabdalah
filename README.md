@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am master student in Telecommunications Engineering at Universidade Federal do Ceará (UFC), Fortaleza, Brazil. 
+#### I am PhD student in Teleinformatics Engineering at Université Côte d'Azur (UCA), France, and Universidade Federal do Ceará (UFC), Brazil. 
 #### My research is devoted to signal processing, data analysis, tensor models and their applications.
  
 <!--
